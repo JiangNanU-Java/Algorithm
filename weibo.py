@@ -1,9 +1,9 @@
 import requests
 import json
-
+# 输入你的浏览器数据
 headers = {
-    'Cookie':'_ga=GA1.2.821256325.1523163002; _octo=GH1.1.1967472400.1523163002; logged_in=yes; dotcom_user=kevinten10; _gat=1',
-    'User_Agent':'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36'
+    'Cookie':'',
+    'User_Agent':''
 }
 
 f = open('D:/weibo-xdy.txt','a+',encoding='utf-8')
