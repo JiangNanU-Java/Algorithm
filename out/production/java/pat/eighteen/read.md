@@ -1,5 +1,5 @@
 
-
+#### 题目描述
 If you are a fan of Harry Potter,you would know the world of magic has its own _[currency（货币）]_ system
 -- as Hagrid explained it to Harry,"Seventeen _[silver（银，银币）]_ _[Sickles（镰刀）]_ to a -[Galleon（帆船）]_
 and twenty-nine Knuts to a Sickle, it's easy enough."Your job is to write a program to -[compute（计算，估算）]_
@@ -7,22 +7,21 @@ A+B where A and B are given in the standard form of "Galleon.Sickle.Knut"(Galleo
 Sickle is an integer in `[0, 17)`,and Knut is an integer in `[0, 29)`).
 
 
- 输入描述:
- Each input file contains one test case 
- which _[occupies（占据）]_ a line with A and B in the standard form, separated by one space.
+#### 输入描述:
+ Each input file contains one test case which _[occupies（占据）]_ a line with A and B in the standard form, separated by one space.
  
  
- 输出描述:
+#### 输出描述:
  For each test case you should output the sum of A and B in one line, with the same format as the input.
  
- 输入例子:
+#### 输入例子:
  3.2.1 10.16.27
  
- 输出例子:
+#### 输出例子:
  14.1.28
  
  
-#### 解
+### 解
 
 A.B.C => Galleon.Sickle.Knut
 
@@ -40,6 +39,8 @@ A.B.C => Galleon.Sickle.Knut
 -. 得到输出
 
 总结：
+5. new Integer[2]{值1，值2}，初始化赋值
+
 4. hasNext()为幂等，即不会对输入造成影响  
    =>取出迭代器，next()检查下一个元素，若有，则remove()，所以不影响，  
    若只有一个元素，可以直接next()，而不用hasNext()进行判断
@@ -49,4 +50,5 @@ A.B.C => Galleon.Sickle.Knut
 2. 使用split(" ") split("\\s")分割一个空格  
    使用split("\\s+")分割多个空格
 
-1. readLine读取字符串，空格将会包含在其中  
+1. nextLine()读取字符串，空格将会包含在其中，只进行回车\n判断  
+   next()判断有效符号，空格/回车等都被分割，且必选先有有效符号才行，若第一个为无效符号，不判断  
