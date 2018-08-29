@@ -1,0 +1,10 @@
+long           64bit
+int            32bit
+short          16bit
+
+double         64bit
+float          32bit
+
+boolean        根据虚拟机不同规范
+char           16bit
+byte            8bit
