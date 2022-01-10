@@ -1,3 +1,5 @@
+package bytedance.school;
+
 import java.math.BigDecimal;
 import java.util.Scanner;
 
