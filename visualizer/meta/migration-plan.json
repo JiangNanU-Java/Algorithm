@@ -1,0 +1,546 @@
+﻿[
+    {
+        "oldPath":  "java/src/adt/bag/Bag.java",
+        "oldPackage":  "adt.bag",
+        "newPackage":  "algo.ds",
+        "newPath":  "java/src/algo/ds/Bag.java",
+        "category":  "数据结构",
+        "name":  "Bag",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "oldPath":  "java/src/adt/bag/BagTest.java",
+        "oldPackage":  "adt.bag",
+        "newPackage":  "algo.ds",
+        "newPath":  "java/src/algo/ds/BagTest.java",
+        "category":  "数据结构",
+        "name":  "BagTest",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "oldPath":  "java/src/adt/list/LinkedList.java",
+        "oldPackage":  "",
+        "newPackage":  "algo.misc.l",
+        "newPath":  "java/src/algo/misc/l/LinkedList.java",
+        "category":  "其他",
+        "name":  "",
+        "tags":  [
+
+                 ],
+        "note":  "缺少package或类名，需人工确认"
+    },
+    {
+        "oldPath":  "java/src/adt/queue/Queue.java",
+        "oldPackage":  "adt.queue",
+        "newPackage":  "algo.queue_stack.q",
+        "newPath":  "java/src/algo/queue_stack/q/Queue.java",
+        "category":  "队列与栈",
+        "name":  "Queue",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "oldPath":  "java/src/adt/stack/Stack.java",
+        "oldPackage":  "adt.stack",
+        "newPackage":  "algo.queue_stack.s",
+        "newPath":  "java/src/algo/queue_stack/s/Stack.java",
+        "category":  "队列与栈",
+        "name":  "Stack",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "oldPath":  "java/src/adt/string/MyString.java",
+        "oldPackage":  "adt.string",
+        "newPackage":  "algo.string",
+        "newPath":  "java/src/algo/string/MyString.java",
+        "category":  "字符串",
+        "name":  "MyString",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "oldPath":  "java/src/adt/union/Union.java",
+        "oldPackage":  "adt.union",
+        "newPackage":  "algo.ds.u",
+        "newPath":  "java/src/algo/ds/u/Union.java",
+        "category":  "数据结构",
+        "name":  "Union",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "oldPath":  "java/src/ali/Main1.java",
+        "oldPackage":  "ali",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main1.java",
+        "category":  "其他",
+        "name":  "Main1",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "ali"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/ali/Main2.java",
+        "oldPackage":  "ali",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main2.java",
+        "category":  "其他",
+        "name":  "Main2",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "ali"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/alimock/Main99.java",
+        "oldPackage":  "alimock",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main99.java",
+        "category":  "其他",
+        "name":  "",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "alimock"
+                                    ]
+                     }
+                 ],
+        "note":  "缺少package或类名，需人工确认"
+    },
+    {
+        "oldPath":  "java/src/annotations/Test.java",
+        "oldPackage":  "annotations",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Test.java",
+        "category":  "其他",
+        "name":  "",
+        "tags":  [
+
+                 ],
+        "note":  "缺少package或类名，需人工确认"
+    },
+    {
+        "oldPath":  "java/src/bytedance/douyin/BinaryTree.java",
+        "oldPackage":  "bytedance.douyin",
+        "newPackage":  "algo.misc.binarysearch",
+        "newPath":  "java/src/algo/misc/binarysearch/BinaryTree.java",
+        "category":  "其他",
+        "name":  "BinaryTree",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "bytedance"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/bytedance/school/Main.java",
+        "oldPackage":  "bytedance.school",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main.java",
+        "category":  "其他",
+        "name":  "Main",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "bytedance"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/bytedance/school/Main2.java",
+        "oldPackage":  "bytedance.school",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main2.java",
+        "category":  "其他",
+        "name":  "Main2",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "bytedance"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/bytedance/school/Main3.java",
+        "oldPackage":  "bytedance.school",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main3.java",
+        "category":  "其他",
+        "name":  "Main3",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "bytedance"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/bytedance/school/Main4.java",
+        "oldPackage":  "bytedance.school",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main4.java",
+        "category":  "其他",
+        "name":  "Main4",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "bytedance"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/bytedance/school/Main5.java",
+        "oldPackage":  "bytedance.school",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main5.java",
+        "category":  "其他",
+        "name":  "Main5",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "bytedance"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/bytedance/school/Test.java",
+        "oldPackage":  "bytedance.school",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Test.java",
+        "category":  "其他",
+        "name":  "Test",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "bytedance"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/pat/eighteen/Main.java",
+        "oldPackage":  "pat.eighteen",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main.java",
+        "category":  "其他",
+        "name":  "Main",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "pat"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/pat/sixteen/Main.java",
+        "oldPackage":  "pat.sixteen",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main.java",
+        "category":  "其他",
+        "name":  "Main",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "pat"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/pat/ten/Main.java",
+        "oldPackage":  "pat.ten",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main.java",
+        "category":  "其他",
+        "name":  "Main",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "pat"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/pat/three/Main.java",
+        "oldPackage":  "pat.three",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main.java",
+        "category":  "其他",
+        "name":  "Main",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "pat"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/pat/Test.java",
+        "oldPackage":  "pat",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Test.java",
+        "category":  "其他",
+        "name":  "Test",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "pat"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/recruit/byte01/Main.java",
+        "oldPackage":  "recruit.byte01",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main.java",
+        "category":  "其他",
+        "name":  "Main",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "oldPath":  "java/src/recruit/byte01/Main2.java",
+        "oldPackage":  "recruit.byte01",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main2.java",
+        "category":  "其他",
+        "name":  "Main2",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "oldPath":  "java/src/recruit/byte01/Test.java",
+        "oldPackage":  "recruit.byte01",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Test.java",
+        "category":  "其他",
+        "name":  "Test",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "oldPath":  "java/src/recruit/byte02/Main.java",
+        "oldPackage":  "recruit.byte02",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main.java",
+        "category":  "其他",
+        "name":  "Main",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "oldPath":  "java/src/techshare/twonumber/package-info.java",
+        "oldPackage":  "techshare.twonumber",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/package-info.java",
+        "category":  "其他",
+        "name":  "",
+        "tags":  [
+
+                 ],
+        "note":  "缺少package或类名，需人工确认"
+    },
+    {
+        "oldPath":  "java/src/techshare/package-info.java",
+        "oldPackage":  "techshare",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/package-info.java",
+        "category":  "其他",
+        "name":  "",
+        "tags":  [
+
+                 ],
+        "note":  "缺少package或类名，需人工确认"
+    },
+    {
+        "oldPath":  "java/src/tencent/Main1.java",
+        "oldPackage":  "tencent",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main1.java",
+        "category":  "其他",
+        "name":  "Main1",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "tencent"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/tencent/Main2.java",
+        "oldPackage":  "tencent",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main2.java",
+        "category":  "其他",
+        "name":  "Main2",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "tencent"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/tencent/Main3.java",
+        "oldPackage":  "tencent",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main3.java",
+        "category":  "其他",
+        "name":  "Main3",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "tencent"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/tree/Traversal.java",
+        "oldPackage":  "src.tree",
+        "newPackage":  "algo.tree.t",
+        "newPath":  "java/src/algo/tree/t/Traversal.java",
+        "category":  "树",
+        "name":  "Traversal",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "oldPath":  "java/src/tree/TreeNode.java",
+        "oldPackage":  "src.tree",
+        "newPackage":  "algo.tree.t",
+        "newPath":  "java/src/algo/tree/t/TreeNode.java",
+        "category":  "树",
+        "name":  "TreeNode",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "oldPath":  "java/src/utils/BufferedReaderTest.java",
+        "oldPackage":  "utils",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/BufferedReaderTest.java",
+        "category":  "其他",
+        "name":  "BufferedReaderTest",
+        "tags":  [
+
+                 ]
+    },
+    {
+        "oldPath":  "java/src/xiecheng/Main1.java",
+        "oldPackage":  "xiecheng",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main1.java",
+        "category":  "其他",
+        "name":  "Main1",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "xiecheng"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/xiecheng/Main2.java",
+        "oldPackage":  "xiecheng",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main2.java",
+        "category":  "其他",
+        "name":  "Main2",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "xiecheng"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/xiecheng/Main3.java",
+        "oldPackage":  "xiecheng",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main3.java",
+        "category":  "其他",
+        "name":  "Main3",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "xiecheng"
+                                    ]
+                     }
+                 ]
+    },
+    {
+        "oldPath":  "java/src/xiecheng/Test.java",
+        "oldPackage":  "xiecheng",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Test.java",
+        "category":  "其他",
+        "name":  "Test",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "xiecheng"
+                                    ]
+                     }
+                 ]
+    }
+]

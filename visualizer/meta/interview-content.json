@@ -1,0 +1,66 @@
+[
+  {
+    "path": "interview-review/07-theory/topics/jvm-memory-model.md",
+    "category": "理论知识",
+    "name": "JVM内存模型",
+    "type": "theory",
+    "tags": [
+      {"key": "topic", "values": ["JVM", "内存模型"]},
+      {"key": "difficulty", "values": ["medium"]}
+    ],
+    "package": "interview-review.theory",
+    "content": {
+      "description": "深入理解JVM内存模型、垃圾回收机制、内存分配策略",
+      "difficulty": "medium",
+      "topics": ["JVM", "内存管理", "垃圾回收"]
+    }
+  },
+  {
+    "path": "interview-review/09-middleware/topics/redis-cluster.md",
+    "category": "中间件",
+    "name": "Redis集群架构",
+    "type": "middleware",
+    "tags": [
+      {"key": "topic", "values": ["Redis", "集群", "分布式"]},
+      {"key": "difficulty", "values": ["hard"]}
+    ],
+    "package": "interview-review.middleware",
+    "content": {
+      "description": "Redis集群原理、主从复制、哨兵模式、Cluster模式详解",
+      "difficulty": "hard",
+      "topics": ["Redis", "集群", "高可用"]
+    }
+  },
+  {
+    "path": "interview-review/12-scenarios/topics/seckill-system.md",
+    "category": "场景题",
+    "name": "秒杀系统设计",
+    "type": "scenario",
+    "tags": [
+      {"key": "topic", "values": ["秒杀", "高并发", "系统设计"]},
+      {"key": "difficulty", "values": ["hard"]}
+    ],
+    "package": "interview-review.scenarios",
+    "content": {
+      "description": "秒杀系统的流量削峰、库存扣减、防刷限流等核心问题解决方案",
+      "difficulty": "hard",
+      "topics": ["高并发", "流量控制", "库存管理"]
+    }
+  },
+  {
+    "path": "interview-review/13-architecture/topics/microservices-design.md",
+    "category": "架构设计",
+    "name": "微服务架构设计",
+    "type": "architecture",
+    "tags": [
+      {"key": "topic", "values": ["微服务", "架构设计", "分布式"]},
+      {"key": "difficulty", "values": ["hard"]}
+    ],
+    "package": "interview-review.architecture",
+    "content": {
+      "description": "微服务拆分原则、服务通信、配置中心、注册发现等架构设计",
+      "difficulty": "hard",
+      "topics": ["微服务", "服务拆分", "服务治理"]
+    }
+  }
+]

@@ -1,0 +1,67 @@
+﻿[
+    {
+        "oldPath":  "java/src/adt/list/LinkedList.java",
+        "oldPackage":  "",
+        "newPackage":  "algo.misc.l",
+        "newPath":  "java/src/algo/misc/l/LinkedList.java",
+        "category":  "其他",
+        "name":  "",
+        "tags":  [
+
+                 ],
+        "note":  "缺少package或类名，需人工确认"
+    },
+    {
+        "oldPath":  "java/src/alimock/Main99.java",
+        "oldPackage":  "alimock",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Main99.java",
+        "category":  "其他",
+        "name":  "",
+        "tags":  [
+                     {
+                         "key":  "source",
+                         "values":  [
+                                        "alimock"
+                                    ]
+                     }
+                 ],
+        "note":  "缺少package或类名，需人工确认"
+    },
+    {
+        "oldPath":  "java/src/annotations/Test.java",
+        "oldPackage":  "annotations",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/Test.java",
+        "category":  "其他",
+        "name":  "",
+        "tags":  [
+
+                 ],
+        "note":  "缺少package或类名，需人工确认"
+    },
+    {
+        "oldPath":  "java/src/techshare/twonumber/package-info.java",
+        "oldPackage":  "techshare.twonumber",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/package-info.java",
+        "category":  "其他",
+        "name":  "",
+        "tags":  [
+
+                 ],
+        "note":  "缺少package或类名，需人工确认"
+    },
+    {
+        "oldPath":  "java/src/techshare/package-info.java",
+        "oldPackage":  "techshare",
+        "newPackage":  "algo.misc",
+        "newPath":  "java/src/algo/misc/package-info.java",
+        "category":  "其他",
+        "name":  "",
+        "tags":  [
+
+                 ],
+        "note":  "缺少package或类名，需人工确认"
+    }
+]
